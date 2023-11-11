@@ -1,4 +1,4 @@
-![image](https://github.com/michaellogi28fr/ProyectoFinalBigData/assets/116052802/79b332ae-fbdf-4d59-8c3b-930a85d7621a)# ProyectoFinalBigData
+# ProyectoFinalBigData
 
 ## Autores
 -Fernandez Rodriguez Michael Paul
