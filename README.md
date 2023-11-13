@@ -36,7 +36,7 @@ en el post se halló 90.
 
 ## Hallazgos importantes
 
-Dataset con variedad de comentarios y frases
+Dataset con variedad de comentarios y frases. Mas que todo el uso de emoticones que se nos puso como desafio. Ya que el modelo no accepta ello y tuvimos que indicarle cuales son aceptables
 
 ## Futuras oportunidades de investigación.
 - Optimizar el modelo de análisis de sentimientos
