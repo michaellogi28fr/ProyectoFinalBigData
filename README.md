@@ -31,7 +31,8 @@ en la cuenta de Samsung Latin para medir el nivel de aceptación o rechazo de la
 
 ## Comentarios sobre dataset
 
-Dataset CSV descargado el 8 de noviembre del 2023 con un total de 90 registros
+Dataset CSV descargado el 8 de noviembre del 2023 con un total de 90 registros. Se usó la herramienta de Export Comments el cual nos permite descargar 100 registros pero
+en el post se halló 90.
 
 ## Hallazgos importantes
 
