@@ -45,6 +45,9 @@ Dataset con variedad de comentarios y frases. Mas que todo el uso de emoticones 
 - Incorporar análisis de contexto y sarcasmo
 
 ## Conclusiones del proyecto
+- El post fue recibido de forma positivo por parte de los seguidores de samsung con 71.1% .
+- El nuevo celular plegable ha fortalecido la percepción de la marca 
+- Se observa una tendencia positiva en los comentarios a lo largo del tiempo
 
 <p>Enlace del Google Slides: https://docs.google.com/presentation/d/1bqQ-0WllHuXsaH_rZ4Y5Ga0AzyOt_2Gii0HGxe-a0us/edit?usp=sharing </p>
 
