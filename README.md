@@ -21,13 +21,13 @@ en la cuenta de Samsung Latin para medir el nivel de aceptación o rechazo de la
 
 ## Tecnlogias utilizadas
 
--Procesamiento de datos: Pandas,Pyspark
+- Procesamiento de datos: Pandas,Pyspark
 
--Análisis EDA: Pandas, Numpy , Matplolib
+- Análisis EDA: Pandas, Numpy , Matplolib
 
--Lenguaje de programación: Python
+- Lenguaje de programación: Python
 
-Otras librerias: Csv, Re, String, Seaborn
+- Otras librerias: Csv, Re, String, Seaborn
 
 ## Comentarios sobre dataset
 
