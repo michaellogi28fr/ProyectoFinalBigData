@@ -34,6 +34,7 @@ en la cuenta de Samsung Latin para medir el nivel de aceptación o rechazo de la
 Dataset CSV descargado el 8 de noviembre del 2023 con un total de 90 registros. Se usó la herramienta de Export Comments el cual nos permite descargar 100 registros pero
 en el post se halló 90.
 
+Post de Instagram utilizado: https://www.instagram.com/reel/CxImf0krGOb/?igshid=YTUzYTFiZDMwYg%3D%3D
 ## Hallazgos importantes
 
 Dataset con variedad de comentarios y frases. Mas que todo el uso de emoticones que se nos puso como desafio. Ya que el modelo no accepta ello y tuvimos que indicarle cuales son aceptables
