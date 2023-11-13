@@ -27,7 +27,7 @@ en la cuenta de Samsung Latin para medir el nivel de aceptación o rechazo de la
 
 - Lenguaje de programación: Python
 
-- Otras librerias: Csv, Re, String, Seaborn
+- Otras librerias: Vader,Csv, Re, String, Seaborn
 
 ## Comentarios sobre dataset
 
@@ -37,6 +37,12 @@ en el post se halló 90.
 ## Hallazgos importantes
 
 Dataset con variedad de comentarios y frases
+
+## Futuras oportunidades de investigación.
+- Optimizar el modelo de análisis de sentimientos
+- Mejorar la traducción automática
+- Considerar mas el contexto cultural
+- Incorporar análisis de contexto y sarcasmo
 
 ## Conclusiones del proyecto
 
