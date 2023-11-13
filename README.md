@@ -2,9 +2,12 @@
 
 ## Autores
 
--Fernandez Rodriguez Michael Paul
--Gutierrez Torres Danfer
--Meza Negreiros Orlando
+- Fernandez Rodriguez Michael Paul
+
+- Gutierrez Torres Danfer
+
+- Meza Negreiros Orlando
+
 
 ## Objetivos
 
